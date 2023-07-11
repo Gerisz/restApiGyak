@@ -1,0 +1,12 @@
+E:\nyar\gyak5\Skeleton\TodoList.DTO\bin\Debug\net6.0\TodoList.DTO.deps.json
+E:\nyar\gyak5\Skeleton\TodoList.DTO\bin\Debug\net6.0\TodoList.DTO.dll
+E:\nyar\gyak5\Skeleton\TodoList.DTO\bin\Debug\net6.0\TodoList.DTO.pdb
+E:\nyar\gyak5\Skeleton\TodoList.DTO\obj\Debug\net6.0\TodoList.DTO.csproj.AssemblyReference.cache
+E:\nyar\gyak5\Skeleton\TodoList.DTO\obj\Debug\net6.0\TodoList.DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\nyar\gyak5\Skeleton\TodoList.DTO\obj\Debug\net6.0\TodoList.DTO.AssemblyInfoInputs.cache
+E:\nyar\gyak5\Skeleton\TodoList.DTO\obj\Debug\net6.0\TodoList.DTO.AssemblyInfo.cs
+E:\nyar\gyak5\Skeleton\TodoList.DTO\obj\Debug\net6.0\TodoList.DTO.csproj.CoreCompileInputs.cache
+E:\nyar\gyak5\Skeleton\TodoList.DTO\obj\Debug\net6.0\TodoList.DTO.dll
+E:\nyar\gyak5\Skeleton\TodoList.DTO\obj\Debug\net6.0\refint\TodoList.DTO.dll
+E:\nyar\gyak5\Skeleton\TodoList.DTO\obj\Debug\net6.0\TodoList.DTO.pdb
+E:\nyar\gyak5\Skeleton\TodoList.DTO\obj\Debug\net6.0\ref\TodoList.DTO.dll

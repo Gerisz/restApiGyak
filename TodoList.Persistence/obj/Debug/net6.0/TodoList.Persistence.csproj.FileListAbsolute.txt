@@ -1,0 +1,14 @@
+E:\nyar\gyak5\Skeleton\TodoList.Persistence\bin\Debug\net6.0\TodoList.Persistence.deps.json
+E:\nyar\gyak5\Skeleton\TodoList.Persistence\bin\Debug\net6.0\TodoList.Persistence.runtimeconfig.json
+E:\nyar\gyak5\Skeleton\TodoList.Persistence\bin\Debug\net6.0\TodoList.Persistence.dll
+E:\nyar\gyak5\Skeleton\TodoList.Persistence\bin\Debug\net6.0\TodoList.Persistence.pdb
+E:\nyar\gyak5\Skeleton\TodoList.Persistence\obj\Debug\net6.0\TodoList.Persistence.csproj.AssemblyReference.cache
+E:\nyar\gyak5\Skeleton\TodoList.Persistence\obj\Debug\net6.0\TodoList.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\nyar\gyak5\Skeleton\TodoList.Persistence\obj\Debug\net6.0\TodoList.Persistence.AssemblyInfoInputs.cache
+E:\nyar\gyak5\Skeleton\TodoList.Persistence\obj\Debug\net6.0\TodoList.Persistence.AssemblyInfo.cs
+E:\nyar\gyak5\Skeleton\TodoList.Persistence\obj\Debug\net6.0\TodoList.Persistence.csproj.CoreCompileInputs.cache
+E:\nyar\gyak5\Skeleton\TodoList.Persistence\obj\Debug\net6.0\TodoList.Persistence.dll
+E:\nyar\gyak5\Skeleton\TodoList.Persistence\obj\Debug\net6.0\refint\TodoList.Persistence.dll
+E:\nyar\gyak5\Skeleton\TodoList.Persistence\obj\Debug\net6.0\TodoList.Persistence.pdb
+E:\nyar\gyak5\Skeleton\TodoList.Persistence\obj\Debug\net6.0\TodoList.Persistence.genruntimeconfig.cache
+E:\nyar\gyak5\Skeleton\TodoList.Persistence\obj\Debug\net6.0\ref\TodoList.Persistence.dll

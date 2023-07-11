@@ -1,0 +1,58 @@
+﻿@model ELTE.TodoList.Persistence.List
+
+@{
+    ViewData["Title"] = "TodoList Items";
+}
+
+<h1>@Html.DisplayFor(model => model.Name)</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Image
+            </th>
+            <th>
+                <a asp-action="Details" asp-route-sortOrder="@ViewData["NameSortParam"]">Name</a>
+            </th>
+            <th>
+                Description
+            </th>
+            <th>
+                <a asp-action="Details" asp-route-sortOrder="@ViewData["DeadLineSortParam"]">Deadline</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Items)
+        {
+        <tr>
+            <td>
+                @if(item.Image != null)
+                {
+                    <img src="@Url.Action("DisplayImage", "Items", new { id = item.Id })" class="item"/>
+                }
+            </td> 
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Deadline)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-controller="Items" asp-route-id="@item.Id">Edit</a> |   
+				<a asp-action="Delete" asp-controller="Items" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+	<a asp-action="CreateItem" asp-route-id="@Model.Id">Add item</a> |
+	<a asp-action="Edit" asp-route-id="@Model.Id">Rename list</a> |
+	<a asp-action="Index">Back to list</a>
+</div>
