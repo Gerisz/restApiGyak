@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pmTWgHa+Lzs+C096uvqaQgMvXu3ShDxHb5rVYpymD85pLGr7+uDOVoD2wwVdcs02l5TSiptiVtD+7DtrLI+u/w==",
+  "dgSpecHash": "Dk0fo0QODCa+IjVkT9EuK7rUlAO1xUTPHKKn0B1RTI/0APC+nRWIEaRMGn5Ulr2TpeuTqatQMJidZMq+ZHDZSg==",
   "success": true,
-  "projectFilePath": "E:\\nyar\\gyak5\\Skeleton\\TodoList.WebAPI\\TodoList.WebAPI.csproj",
+  "projectFilePath": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.WebAPI\\TodoList.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kiszely Gergő\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Kiszely Gergő\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

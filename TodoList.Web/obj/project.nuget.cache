@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9NRYlqYgQ9Zr89slaZjxgw2xgNZiaIcnqhXDjdD3sluAszD+RH5O8tALgkxuwqkDjUbALutjd3KgmxjdfwJY+Q==",
+  "dgSpecHash": "+a/VJ1QDb6wx/FMS6R8kMi0klKDueNFKD09vc2UDypZ5bd/SzKNAe52rXje4gAD0iZQIIu4azBj5aORIlPKRRA==",
   "success": true,
-  "projectFilePath": "E:\\nyar\\gyak5\\Skeleton\\TodoList.Web\\TodoList.Web.csproj",
+  "projectFilePath": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.Web\\TodoList.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kiszely Gergő\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512",
     "C:\\Users\\Kiszely Gergő\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",

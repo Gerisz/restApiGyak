@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ap7n0jbMeb+C/zCVvW/xvPqcvpEjIe5IankalEh7rr4qQjSl2HtCl4eQx6/MyJ7jurghDHY5w/hoMtCqn/l8WQ==",
+  "dgSpecHash": "REKzqmMvcv2vMv5LLVQW05JfH7e39MmVFj1kvNtR+RAjHrwil//WdJdkt9XbjJfTTb3pGJ7TQmGFliqaCmNmIA==",
   "success": true,
-  "projectFilePath": "E:\\nyar\\gyak5\\Skeleton\\TodoList.Persistence\\TodoList.Persistence.csproj",
+  "projectFilePath": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.Persistence\\TodoList.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kiszely Gergő\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Kiszely Gergő\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.3\\microsoft.aspnetcore.cryptography.internal.6.0.3.nupkg.sha512",

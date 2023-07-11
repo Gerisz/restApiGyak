@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\nyar\\gyak5\\Skeleton\\TodoList.WebAPI\\TodoList.WebAPI.csproj": {}
+    "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.WebAPI\\TodoList.WebAPI.csproj": {}
   },
   "projects": {
-    "E:\\nyar\\gyak5\\Skeleton\\TodoList.DTO\\TodoList.DTO.csproj": {
+    "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.DTO\\TodoList.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\nyar\\gyak5\\Skeleton\\TodoList.DTO\\TodoList.DTO.csproj",
+        "projectUniqueName": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.DTO\\TodoList.DTO.csproj",
         "projectName": "TodoList.DTO",
-        "projectPath": "E:\\nyar\\gyak5\\Skeleton\\TodoList.DTO\\TodoList.DTO.csproj",
+        "projectPath": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.DTO\\TodoList.DTO.csproj",
         "packagesPath": "C:\\Users\\Kiszely Gergő\\.nuget\\packages\\",
-        "outputPath": "E:\\nyar\\gyak5\\Skeleton\\TodoList.DTO\\obj\\",
+        "outputPath": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "E:\\nyar\\gyak5\\Skeleton\\TodoList.Persistence\\TodoList.Persistence.csproj": {
+    "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.Persistence\\TodoList.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\nyar\\gyak5\\Skeleton\\TodoList.Persistence\\TodoList.Persistence.csproj",
+        "projectUniqueName": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.Persistence\\TodoList.Persistence.csproj",
         "projectName": "TodoList.Persistence",
-        "projectPath": "E:\\nyar\\gyak5\\Skeleton\\TodoList.Persistence\\TodoList.Persistence.csproj",
+        "projectPath": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.Persistence\\TodoList.Persistence.csproj",
         "packagesPath": "C:\\Users\\Kiszely Gergő\\.nuget\\packages\\",
-        "outputPath": "E:\\nyar\\gyak5\\Skeleton\\TodoList.Persistence\\obj\\",
+        "outputPath": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -146,14 +146,14 @@
         }
       }
     },
-    "E:\\nyar\\gyak5\\Skeleton\\TodoList.WebAPI\\TodoList.WebAPI.csproj": {
+    "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.WebAPI\\TodoList.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\nyar\\gyak5\\Skeleton\\TodoList.WebAPI\\TodoList.WebAPI.csproj",
+        "projectUniqueName": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.WebAPI\\TodoList.WebAPI.csproj",
         "projectName": "TodoList.WebAPI",
-        "projectPath": "E:\\nyar\\gyak5\\Skeleton\\TodoList.WebAPI\\TodoList.WebAPI.csproj",
+        "projectPath": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.WebAPI\\TodoList.WebAPI.csproj",
         "packagesPath": "C:\\Users\\Kiszely Gergő\\.nuget\\packages\\",
-        "outputPath": "E:\\nyar\\gyak5\\Skeleton\\TodoList.WebAPI\\obj\\",
+        "outputPath": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -175,14 +175,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\nyar\\gyak5\\Skeleton\\TodoList.DTO\\TodoList.DTO.csproj": {
-                "projectPath": "E:\\nyar\\gyak5\\Skeleton\\TodoList.DTO\\TodoList.DTO.csproj"
+              "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.DTO\\TodoList.DTO.csproj": {
+                "projectPath": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.DTO\\TodoList.DTO.csproj"
               },
-              "E:\\nyar\\gyak5\\Skeleton\\TodoList.Persistence\\TodoList.Persistence.csproj": {
-                "projectPath": "E:\\nyar\\gyak5\\Skeleton\\TodoList.Persistence\\TodoList.Persistence.csproj"
+              "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.Persistence\\TodoList.Persistence.csproj": {
+                "projectPath": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.Persistence\\TodoList.Persistence.csproj"
               },
-              "E:\\nyar\\gyak5\\Skeleton\\TodoList.Web\\TodoList.Web.csproj": {
-                "projectPath": "E:\\nyar\\gyak5\\Skeleton\\TodoList.Web\\TodoList.Web.csproj"
+              "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.Web\\TodoList.Web.csproj": {
+                "projectPath": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.Web\\TodoList.Web.csproj"
               }
             }
           }
@@ -255,14 +255,14 @@
         }
       }
     },
-    "E:\\nyar\\gyak5\\Skeleton\\TodoList.Web\\TodoList.Web.csproj": {
+    "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.Web\\TodoList.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\nyar\\gyak5\\Skeleton\\TodoList.Web\\TodoList.Web.csproj",
+        "projectUniqueName": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.Web\\TodoList.Web.csproj",
         "projectName": "TodoList.Web",
-        "projectPath": "E:\\nyar\\gyak5\\Skeleton\\TodoList.Web\\TodoList.Web.csproj",
+        "projectPath": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.Web\\TodoList.Web.csproj",
         "packagesPath": "C:\\Users\\Kiszely Gergő\\.nuget\\packages\\",
-        "outputPath": "E:\\nyar\\gyak5\\Skeleton\\TodoList.Web\\obj\\",
+        "outputPath": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -284,8 +284,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\nyar\\gyak5\\Skeleton\\TodoList.Persistence\\TodoList.Persistence.csproj": {
-                "projectPath": "E:\\nyar\\gyak5\\Skeleton\\TodoList.Persistence\\TodoList.Persistence.csproj"
+              "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.Persistence\\TodoList.Persistence.csproj": {
+                "projectPath": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.Persistence\\TodoList.Persistence.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sap6mvRPc+GYRswwHfZpbTJxtFY30SEn4DE534sZ8NvlVoQJaIWCsyZMK2czrVM6d9sCi+s5Zho4ZYOuXUXv4Q==",
+  "dgSpecHash": "oAmQ+JiBcoeMcyx1qb7K4dr2uTt1E8rI33wNYIddx+DbszmuG1IH9vAsMjnsh4NQEdujOmHnxlgRc8d2XD//lA==",
   "success": true,
-  "projectFilePath": "E:\\nyar\\gyak5\\Skeleton\\TodoList.DTO\\TodoList.DTO.csproj",
+  "projectFilePath": "E:\\nyar\\gyak5\\Skeleton\\restApiGyak\\TodoList.DTO\\TodoList.DTO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
